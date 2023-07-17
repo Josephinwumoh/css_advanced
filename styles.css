@@ -1,0 +1,221 @@
+body {
+    width: 100vh;
+    height: 100vh;
+    padding: 10px;
+    background-color: rgb(58, 81, 110);
+    margin: 10px;
+
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-container {
+    background-image:'background (1).png'
+
+}
+
+.logo-container {
+    padding-top: 20px;
+    padding-left: 150px;
+    margin: 0px;
+
+}
+
+.navbar-menu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 50px;
+    overflow: hidden;
+    float: right;
+}
+
+.navbar-menu a {
+    display: flex;
+    padding: none;
+    margin: 1em;
+    font-size: 15px;
+}
+
+.section-get-schooled {
+    text-align: center;
+}
+
+.section-get-schooled h1 {
+    font-size: 100px;
+    margin-bottom: 0px;
+    padding-top: 100px;
+    color: white;
+}
+
+.section-get-schooled p {
+    margin-top: 0px;
+    word-spacing: 60px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.section-get-schooled button {
+    background-color:rgb(194, 113, 255,);
+    border-radius: 20px;
+    border: none;
+    color: white;
+    height: 40px;
+    width: 261px;
+    margin-top:30px
+}
+
+.heading {
+    text-align: centre;
+    font-size: 25px;
+    margin-top:250px;
+}
+
+.heading b {
+    color:  rgb(194, 113, 255,);
+}
+
+.pros {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.pros img {
+    height: 50%;
+    width: 90%;
+}
+.pros h3 {
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    
+}
+
+.pros p {
+    color: white;
+    margin-top: 1px;
+    text-align: center;
+}
+
+.quote {
+    background-color:  rgb(194, 113, 255,);
+}
+
+.container-1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.container-1 img {
+    height: 8%;
+    width: 8%;
+}
+
+.blockquote {
+    margin-left: 5px;
+    color: white;
+}
+
+.tutorials h1 {
+    text-align: center;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.smile {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.smile img {
+    height: 50%;
+    width: 45%;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.section-membership {
+    background-color: rgb(7, 22, 41);
+}
+
+.h3-container {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+.h3-container br {
+    color:rgb(194, 113, 255,) ;
+    
+}
+
+.section-smiles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+}
+
+.section-smiles h3, p {
+    color: white;
+}
+
+.button-container {
+    text-align: center;
+    padding-bottom: 50px;
+    background-color:rgb(194, 113, 255,) ;
+    border-radius: 3px;
+}
+
+.Ask {
+    text-align: center;
+    font-size: 150%;
+}
+
+.section-how-does-this-work {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-how-does-this-work p {
+    color: black;
+}
+
+footer {
+
+    background-color: rgb(7, 22, 41);
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.copyright {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
